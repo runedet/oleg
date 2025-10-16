@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sunset island
+* source:	https://sketchfab.com/3d-models/sunset-island-75c3b156c9e8428a81b7fb9a51126287
+* author:	Pasha (https://sketchfab.com/Pasha.)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
